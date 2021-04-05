@@ -1,4 +1,4 @@
-### Hi there 👋 I am Heet kumar Kothadiya
+### Hi there 👋 I am Heet kumar Kothadiya 🚀
 
 <!--
 **heet-kumar/heet-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+
+## **About Me:**
+Python Developer  ||  Web Developer || Data Analyst || Competitive Coder 
+
+### My Technology Stack 🤗
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
