@@ -31,7 +31,7 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=abhijeet007rocks8&line_height=40&theme=dark">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=heet-kumar&line_height=40&theme=dark">
 </p>
 
 ## My Stats 👨🏻‍💻
