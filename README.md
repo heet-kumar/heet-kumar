@@ -40,5 +40,16 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder
   
   <img src="https://github-readme-stats.vercel.app/api?username=heet-kumar&hide=stars&show_icons=true&line_height=48&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&count_private=true&line_height=40&theme=dark">
+  
+</p>
+
+### Find Me on
+
+<p align="center">
+  
+    <a target="_blank"href="https://www.linkedin.com/in/heet-kumar-kothadiya-b6bb9b11a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/HeetKothadiya"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:heetkumarpatel@gmail.com?subject=Hey%20Heet,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://heetkumarpatel.medium.com/"><img src="https://img.shields.io/badge/medium-%ffffff.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
