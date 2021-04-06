@@ -28,3 +28,12 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+### My Stats 👨🏻‍💻
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=heet-kumar&hide=stars&show_icons=true&line_height=48&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&count_private=true&line_height=40&theme=dark">
+
+</p>
