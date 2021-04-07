@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## **About Me:**
 Python Developer  ||  Web Developer || Data Analyst || Competitive Coder 
 
-### My Technology Stack 🤗
+## My Technology Stack 🤗
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
