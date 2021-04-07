@@ -43,7 +43,7 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder
   
 </p>
 
-## Find Me on
+## Find me on
 
 <p align="center">
 
