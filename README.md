@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ........
 -->
 
-🎓 I am a **Junior** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+🎓 I am a **Third** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
 
 ## **About Me:**
 Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open Source Contributor
