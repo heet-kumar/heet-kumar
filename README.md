@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🎓 I am a **Third** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
 
 ## **About Me:**
-Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open Source Contributor |
+Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open Source Contributor
 
 ## My Technology Stack 🤗
 
