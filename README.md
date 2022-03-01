@@ -46,7 +46,7 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=heet-kumar&hide=stars&show_icons=true&line_height=48&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&count_private=true&line_height=40&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&layout=compact&theme=react&hide_border=false" />
   
 </p>
 
