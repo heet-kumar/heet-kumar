@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 ## **About Me:**
 Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open Source Contributor
 
+- Top Mentor in GWOC 2021 (GirlScript Winter of Code 2021)
+- Mentor in SWOC 2021 (Script Winter of Code 2021)
+- Mentor in GSSoC 2022 (Girl Script Summer of Code 2022)
+
 ## My Technology Stack 🤗
 
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C programming" width="40" height="40"/></a>
