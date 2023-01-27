@@ -50,7 +50,7 @@ Python Developer  ||  Web Developer || Data Analyst || Competitive Coder || Open
 <p align="center">
   
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=heet-kumar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&layout=compact&theme=react&hide_border=false" />
+  <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heet-kumar&layout=compact&theme=tokyonight&langs_count=15" />
   
 </p>
 
